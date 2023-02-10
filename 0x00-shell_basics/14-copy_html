@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -a 14-copy_html ../
+cp 14-copy_html ../
