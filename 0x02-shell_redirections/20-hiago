@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "." | tr 's/c/C//g'
+echo "." | tr -d 's/c/C//g'
