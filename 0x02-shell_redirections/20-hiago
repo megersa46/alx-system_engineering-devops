@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Chicago" | tr 's/c/C//g'
+echo "." | tr 's/c/C//g'
